@@ -1,0 +1,4 @@
+ytmusicapi==1.10.2
+yt-dlp==2025.3.27
+tqdm==4.67.1
+python-dotenv==1.1.0
